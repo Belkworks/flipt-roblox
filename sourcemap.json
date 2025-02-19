@@ -1,0 +1,1 @@
+{"name":"flipt-roblox","className":"ModuleScript","filePaths":["src\\init.luau","default.project.json"],"children":[{"name":"types","className":"ModuleScript","filePaths":["src\\types.luau"]},{"name":"flipt","className":"ModuleScript","filePaths":["src\\flipt.luau"]},{"name":"namespace","className":"ModuleScript","filePaths":["src\\namespace.luau"]}]}
